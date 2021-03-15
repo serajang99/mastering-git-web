@@ -1,5 +1,35 @@
-# mastering-git-web
+# sns 기반 mbti 예측 시스템
 
-This repository houses a proposed website for the Mastering Git book.
+## mastering-git-web 수정
+---
 
-Contact: mwkoo@sogang.ac.kr
+~ This repository houses a proposed website for the Mastering Git book. ~
+
+~ Contact: mwkoo@sogang.ac.kr ~
+
+---
+
+> 인스타그램으로 내 mbti를 알 수 있을까?
+
+> 내 인스타그램은 어떤 성격을 나타내고 있을까?
+
+---
+### 동기
+
+ 프로젝트 주제를 생각해보던 중**우리가 mbti 과몰입** 중이라는 사실을 깨달았다. mbti와 관련된 딥러닝 중 어떤 것을 할 수 있을까 고민해보았다.
+
+---
+### 개발순서
+
+개발 순서는 다음과 같다.
+
+1. 인스타그램의 한 계정에서 사진과 텍스트를 크롤링한다.
+2. 텍스트에서 성격을 알 수 있는 단어들을 추출한다. 분류 비교
+3. 사진의 색감을 이용하여 예측 시스템을 만들어본다.
+4. 최종적으로 계정의 아이디를 넣으면 mbti를 예측하는 시스템을 만든다.
+
+* 추가적으로 계정 두개를 입력하여 mbti 궁합을 봐줄 수 있다.
+* 텍스트만 할지 사진만 할지 모름.
+
+
+
